@@ -10,3 +10,5 @@ Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/ThirdParty/OpenXR/win64/openx
 *.dll
 Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll
 Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll
+Saved/Config/CrashReportClient/UE4CC-Windows-90F5C5E84DF9C50515D0D5A73A3FA129/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-90F5C5E84DF9C50515D0D5A73A3FA129/CrashReportClient.ini
