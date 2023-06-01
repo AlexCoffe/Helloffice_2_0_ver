@@ -500,7 +500,8 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:TargetedHardwareClass
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTargetedHardwareClass:0=Desktop
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Maximum
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
-Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
+Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/DPL/Game Play_v_2")
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
@@ -521,8 +522,6 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/DPL/Game Play")
-Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
@@ -542,6 +541,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfEditorWasBuiltLocally
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
 Game:/Script/Engine.GameNetworkManager:MaxDynamicBandwidth:0=7000
